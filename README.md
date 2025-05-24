@@ -217,7 +217,8 @@ showComments: false
 
 <div className="bg-white py-12 sm:py-24">
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
-    <Newsletter title="Stay in the Loop" privacyPolicyText="We care about your data." privacyPolicyUrl="https://datahub.io/docs/privacy"/>
+    <h2 className="text-balance text-4xl font-semibold tracking-tight sm:text-5xl">Want product news and updates? Sign up for our newsletter..</h2>
+    <iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAI3H-el6BzWbjtRzz4xZFz67or2ux2cIPbOMqGlDsbtqE358_4TsS80OovYTznnTyiWgGO5wFCeRJqbqXQFb-jnDZ_Los9nFCSctjjTw331nk7-g3GorTBQJvJbwsljHc2l5B1AVHEht9-tUE4KNn6zHqjGqtgNIDtaJLu06C6ScKKpADKHw0vo7Hlq1Y_mZMENyDhkbZWTe" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
   </div>
 </div>
 
