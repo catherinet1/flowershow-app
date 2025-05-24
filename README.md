@@ -218,7 +218,8 @@ showComments: false
 <div className="bg-white py-12 sm:py-24">
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
     <h2 className="text-balance text-4xl font-semibold tracking-tight sm:text-5xl">Want product news and updates? Sign up for our newsletter.</h2>
-<iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAE9v7GGaJGCimP739_rFP2vwxzjfz1-C50YRw141SqQvgR93psAHCYdyC5IQaZGw4zzwYRKeiwNBniXX3u_lP9vAhVZUaY7OSEUYyPif5GX2ZXTF8QiY837d418XlV7fTvZUnj9Kcou9FBWqZqSjAtJSlq6gwH6DwwB_lV6kLkCZiAX710UzSzdUTfMU8jqF4UI-7MG8H5JN" frameborder="0" scrolling="auto" allowFullScreen></iframe>
+    <iframe data-tally-src="https://tally.so/embed/mYy8k6?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="226" frameborder="0" marginheight="0" marginwidth="0" title="Want product news and updates? Sign up for our newsletter."></iframe>
+    <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
   </div>
 </div>
 
