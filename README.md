@@ -218,7 +218,7 @@ showComments: false
 <div className="bg-white py-12 sm:py-24 my-12">
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <h2 className="mb-4 text-pretty text-balance text-4xl font-semibold tracking-tight text-gray-900 sm:mb-6 sm:text-5xl">Be the first to know about new features</h2>
-      <iframe width="100%" height="150" src="https://sibforms.com/serve/MUIFAE5fPAi6eFP-ZumTbDvfMHx59HocXV-9wOGzP3KYVIerSeYkdbNgfpi1c_g1cOqQ7DgIJK9xkcRHP4VznUQyeDU4spsv6DaPnd25A1ioJyG2IwLHAFX-om3nZP84A-4YrzyS0mZygsmSVmm1ojVa-IaodzIVhVeZo7GXr813chQX9IoR7pr5mfMSeoKRFagHoTPwqZkZZa9C" frameborder="0" scrolling="auto"></iframe>
+    <iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAE5fPAi6eFP-ZumTbDvfMHx59HocXV-9wOGzP3KYVIerSeYkdbNgfpi1c_g1cOqQ7DgIJK9xkcRHP4VznUQyeDU4spsv6DaPnd25A1ioJyG2IwLHAFX-om3nZP84A-4YrzyS0mZygsmSVmm1ojVa-IaodzIVhVeZo7GXr813chQX9IoR7pr5mfMSeoKRFagHoTPwqZkZZa9C" frameborder="0" scrolling="auto" allowfullscreen style={{display: "block", marginLeft: "auto", marginRight: "auto", maxWidth: "100%"}}></iframe>
   </div>
 </div>
 
