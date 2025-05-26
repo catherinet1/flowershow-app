@@ -215,12 +215,12 @@ showComments: false
   </div>
 </div>
 
-<div className="bg-white py-12 sm:py-24">
+<div className="bg-white py-12 sm:py-24 my-12">
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
-    <h2 className="text-balance text-4xl font-semibold tracking-tight sm:text-5xl">Want product news and updates? Sign up for our newsletter.</h2>
-    <Embed scriptSrcs={['var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}']}>
-      <iframe data-tally-src="https://tally.so/embed/mYy8k6?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="226" frameBorder="0" marginHeight="0" marginWidth="0" title="Want product news and updates? Sign up for our newsletter."></iframe>
-    </Embed>
+    <div className="mx-auto max-w-3xl lg:text-center">
+      <h2 className="mt-2 text-pretty text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl lg:text-balance">Be the first to know about new features</h2>
+      <iframe data-tally-src="https://tally.so/embed/mYy8k6?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="157" frameborder="0" marginheight="0" marginwidth="0" title="Want product news and updates? Sign up for our newsletter."></iframe>
+    </div>
   </div>
 </div>
 
