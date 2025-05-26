@@ -222,6 +222,8 @@ showComments: false
   </div>
 </div>
 
+<script async src="https://tally.so/widgets/embed.js"></script>
+
 <div className="bg-slate-900 mt-16 sm:mt-20 md:mt-24">
   <div className="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
     <div className="mx-auto max-w-2xl text-center">
