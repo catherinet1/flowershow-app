@@ -217,9 +217,9 @@ showComments: false
 
 <div className="bg-white py-12 sm:py-24 my-12">
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
-    <div className="mx-auto max-w-3xl lg:text-center">
-      <h2 className="mt-2 text-pretty text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl lg:text-balance">Be the first to know about new features</h2>
-      <iframe data-tally-src="https://tally.so/embed/mYy8k6?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="157" frameborder="0" marginheight="0" marginwidth="0" title="Want product news and updates? Sign up for our newsletter."></iframe>
+    <div className="mx-auto max-w-4xl xl:max-w-5xl">
+      <h2 className="mb-2 text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Be the first to know about new features</h2>
+      <iframe data-tally-src="https://tally.so/embed/mYy8k6?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="157" frameborder="0" marginHeight="0" marginWidth="0" title="Want product news and updates? Sign up for our newsletter."></iframe>
     </div>
   </div>
 </div>
