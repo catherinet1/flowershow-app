@@ -216,8 +216,8 @@ showComments: false
 </div>
 
 <>
-<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v176e10baa5e7ed80d35ae235be3d5024" type="text/javascript"></script>
-<script>
+<script async src="https://groot.mailerlite.com/js/w/webforms.min.js?v176e10baa5e7ed80d35ae235be3d5024" type="text/javascript"></script>
+<script async>
   fetch("https://assets.mailerlite.com/jsonp/1549630/forms/155461808704980521/takel")
 </script>
 </>
