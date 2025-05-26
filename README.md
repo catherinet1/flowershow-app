@@ -217,13 +217,8 @@ showComments: false
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
-        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
 <div id="mc_embed_signup">
-    <form action="https://icloud.us16.list-manage.com/subscribe/post?u=5e017cf781e7843e0ba235cc0&amp;id=adddc61a14&amp;f_id=00112ce0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+    <form action="https://icloud.us16.list-manage.com/subscribe/post?u=5e017cf781e7843e0ba235cc0&amp;id=adddc61a14&amp;f_id=00112ce0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank">
         <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
             <div className="indicates-required"><span className="asterisk">*</span> indicates required</div>
             <div className="mc-field-group"><label for="mce-EMAIL">Email Address <span className="asterisk">*</span></label><input type="email" name="EMAIL" className="required email" id="mce-EMAIL" required="" value=""></div>
@@ -232,13 +227,12 @@ showComments: false
             <div className="response" id="mce-success-response"></div>
         </div>
     <div aria-hidden="true">
-        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
         <input type="text" name="b_5e017cf781e7843e0ba235cc0_adddc61a14" tabindex="-1" value="">
     </div>
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                <p style="margin: 0px auto;"><a href="http://eepurl.com/jfFaso" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+                <p><a href="http://eepurl.com/jfFaso" title="Mailchimp - email marketing made easy and fun"><span><img className="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp"></span></a></p>
             </div>
         </div>
     </div>
