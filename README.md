@@ -215,123 +215,136 @@ showComments: false
   </div>
 </div>
 
-<div className="bg-white">
-  <div className="mx-auto max-w-7xl px-6 lg:px-8">
-  <iframe width="100%" height="430" src="https://sibforms.com/serve/MUIFAA-8ZvgY2wHKwZVtHcz_K1VMOVOijhY7OsYYDKlU1oOLMFHbp_Yxn5oEr2RrKIwS4DNPdw4RVhluuPZ3iwxSX7-SDUxPvgUcpju5UhkbJ-8WCrny3I30DJrWN3oGojm7i1awVT0A8DHg2Koeu1sYHiEqCWJblFic_YyrfIjn31z_NWdpyYLHe1GLCv2SNgHqKjrWRGclI1Ko" frameborder="0" scrolling="auto"></iframe>
-  </div>
-</div>
+ <div id="mlb2-26429956" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-26429956">
+      <div class="ml-form-align-center ">
+        <div class="ml-form-embedWrapper embedForm">
 
-<div id="mc_embed_shell">
-  <link
-    href="//cdn-images.mailchimp.com/embedcode/classic-061523.css"
-    rel="stylesheet"
-    type="text/css"
-  />
-  <style>
-    {`
-      #mc_embed_signup { 
-        background: #fff; 
-        clear: left; 
-        font: 14px Helvetica, Arial, sans-serif; 
-        width: 600px; 
-      }
-      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. */
-    `}
-  </style>
-  <div id="mc_embed_signup">
-    <form
-      action="https://icloud.us16.list-manage.com/subscribe/post?u=5e017cf781e7843e0ba235cc0&id=adddc61a14&f_id=00112ce0f0"
-      method="post"
-      id="mc-embedded-subscribe-form"
-      name="mc-embedded-subscribe-form"
-      className="validate"
-      target="_self"
-      noValidate
-    >
-      <div id="mc_embed_signup_scroll">
-        <h2>Subscribe</h2>
-        <div className="indicates-required">
-          <span className="asterisk">*</span> indicates required
-        </div>
-        <div className="mc-field-group">
-          <label htmlFor="mce-EMAIL">
-            Email Address <span className="asterisk">*</span>
-          </label>
-          <input
-            type="email"
-            name="EMAIL"
-            className="required email"
-            id="mce-EMAIL"
-            required
-            defaultValue=""
-          />
-        </div>
-        <div id="mce-responses" className="clear foot">
-          <div
-            className="response"
-            id="mce-error-response"
-            style={{ display: 'none' }}
-          />
-          <div
-            className="response"
-            id="mce-success-response"
-            style={{ display: 'none' }}
-          />
-        </div>
-        <div
-          aria-hidden="true"
-          style={{ position: 'absolute', left: '-5000px' }}
-        >
-          <input
-            type="text"
-            name="b_5e017cf781e7843e0ba235cc0_adddc61a14"
-            tabIndex={-1}
-            defaultValue=""
-          />
-        </div>
-        <div className="optionalParent">
-          <div className="clear foot">
-            <input
-              type="submit"
-              name="subscribe"
-              id="mc-embedded-subscribe"
-              className="button"
-              value="Subscribe"
-            />
-            <p style={{ margin: '0px auto' }}>
-              <a
-                href="http://eepurl.com/jfFaso"
-                title="Mailchimp - email marketing made easy and fun"
-              >
-                <span
-                  style={{
-                    display: 'inline-block',
-                    backgroundColor: 'transparent',
-                    borderRadius: '4px',
-                  }}
-                >
-                  <img
-                    className="refferal_badge"
-                    src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg"
-                    alt="Intuit Mailchimp"
-                    style={{
-                      width: '220px',
-                      height: '40px',
-                      display: 'flex',
-                      padding: '2px 0px',
-                      justifyContent: 'center',
-                      alignItems: 'center',
-                    }}
-                  />
-                </span>
-              </a>
-            </p>
+          
+          
+
+          <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+
+            <div class="ml-form-embedContent" style=" ">
+              
+                <h4>Newsletter</h4>
+                
+                  <p>Signup for news and special offers!</p>
+                
+              
+            </div>
+
+            <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/1549630/forms/155461808704980521/subscribe" data-code="" method="post" target="_blank">
+              <div class="ml-form-formContent">
+                
+
+                  
+                  <div class="ml-form-fieldRow ml-last-item">
+                    <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+
+                      
+
+
+                      <!-- input -->
+                      <input aria-label="email" aria-required="true" type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Email" autocomplete="email">
+                      <!-- /input -->
+
+                      <!-- textarea -->
+                      
+                      <!-- /textarea -->
+
+                      <!-- select -->
+                      
+                      <!-- /select -->
+
+                      <!-- checkboxes -->
+            
+            <!-- /checkboxes -->
+
+                      <!-- radio -->
+                      
+                      <!-- /radio -->
+
+                      <!-- countries -->
+                      
+                      <!-- /countries -->
+
+
+
+
+
+                    </div>
+                  </div>
+                
+              </div>
+
+              
+
+              <!-- Privacy policy -->
+              
+              <!-- /Privacy policy -->
+
+              
+
+              
+
+              
+
+
+
+
+
+
+              
+              <input type="hidden" name="ml-submit" value="1">
+
+              <div class="ml-form-embedSubmit">
+                
+                  <button type="submit" class="primary">Subscribe</button>
+                
+                <button disabled="disabled" style="display: none;" type="button" class="loading">
+                  <div class="ml-form-embedSubmitLoad"></div>
+                  <span class="sr-only">Loading...</span>
+                </button>
+              </div>
+
+              
+              <input type="hidden" name="anticsrf" value="true">
+            </form>
+          </div>
+
+          <div class="ml-form-successBody row-success" style="display: none">
+
+            <div class="ml-form-successContent">
+              
+                <h4>Thank you!</h4>
+                
+                  <p>You have successfully joined our subscriber list.</p>
+                
+              
+            </div>
+
           </div>
         </div>
       </div>
-    </form>
-  </div>
-</div>
+    </div>
+
+  
+
+  
+  
+<script>
+  function ml_webform_success_26429956() {
+    var $ = ml_jQuery || jQuery;
+    $('.ml-subscribe-form-26429956 .row-success').show();
+    $('.ml-subscribe-form-26429956 .row-form').hide();
+  }
+</script>
+
+<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v176e10baa5e7ed80d35ae235be3d5024" type="text/javascript"></script>
+<script>
+  fetch("https://assets.mailerlite.com/jsonp/1549630/forms/155461808704980521/takel")
+</script>
+
 
 
 
