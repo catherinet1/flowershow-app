@@ -218,7 +218,7 @@ showComments: false
 <div className="bg-white py-12 sm:py-24 my-12">
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <h2 className="mb-4 text-pretty text-balance text-4xl font-semibold tracking-tight text-gray-900 sm:mb-6 sm:text-5xl">Be the first to know about new features</h2>
-      <iframe width="540" height="305" src="https://sibforms.com/serve/MUIFAHKz5bdZ_cxgMe9L9Xf2nlCDLg6ur_gSFmWNqPPfbc8VBgq23TnYps_FrcY5KsIjG_oq2atF4XzsZ22FlrmtjXw2qEoOGvWS3HOjbxjxRWkrNxkWsLW12sG8L653lf1nnqad1-z-KxQv6Od0h19YrYcvMDaiwZghH5bmlENg3Vka673VtNezUJYHKSWwQXnwoVnludtjZSGP" frameborder="0" scrolling="auto"></iframe>
+      <iframe width="100%" height="305" src="https://sibforms.com/serve/MUIFAMu_3WJ6KiFtbUzu6XxF6_KqbwHgwMjJqDuao9K1Ciiu78HySQi4OqGhS7jL0t1O3P7-LztNaFuNPRmk1UQNVakRxjlyZp0K4ZWntvHlw8Jc5j-P9bVYSteDqtGDciwsZLVS8LcowjMUFMy6z27LTvCr40d6kKq-rBz5NAgH_NvFl5t7DTG2zPEeCN4JUv6PJHzkICNTOZsX" frameborder="0" scrolling="auto"></iframe>
   </div>
 </div>
 
